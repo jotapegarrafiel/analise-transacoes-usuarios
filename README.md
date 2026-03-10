@@ -160,6 +160,18 @@ O projeto inclui gráficos como:
 
 ---
 
+## ▶️ Como reproduzir
+
+1. Clone este repositório
+2. Abra os arquivos `.sql` para explorar as consultas
+3. Execute o notebook `notebooks/analise_transacoes.ipynb`
+4. Instale as bibliotecas necessárias:
+   - pandas
+   - matplotlib
+   - jupyter
+
+---
+
 ## 📚 Aprendizados
 
 Este projeto permitiu praticar:
@@ -185,4 +197,4 @@ Algumas análises que poderiam ser exploradas em etapas futuras:
 
 ## 👨‍💻 Autor
 
-Projeto desenvolvido como parte dos estudos em **Análise de Dados**.
+Desenvolvido por João como parte dos estudos em Análise de Dados.
