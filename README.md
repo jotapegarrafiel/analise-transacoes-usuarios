@@ -39,7 +39,7 @@ Entre os principais objetivos desta análise estão:
 ```md
 ## 🗂 Estrutura do Projeto
 
-```text
+text
 analise-transacoes-usuarios/
 
 data/
