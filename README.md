@@ -37,7 +37,7 @@ Entre os principais objetivos desta análise estão:
 ## 🗂 Estrutura do Projeto
 
 ```
-analise-transacoes-clientes/
+analise-transacoes-usuarios/
 
 data/
    raw/
