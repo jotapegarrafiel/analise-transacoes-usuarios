@@ -36,35 +36,32 @@ Entre os principais objetivos desta análise estão:
 
 ## 🗂 Estrutura do Projeto
 
-```md
-## 🗂 Estrutura do Projeto
-
-text
+```text
 analise-transacoes-usuarios/
-
-data/
-   raw/
-      clientes.csv
-      produtos.csv
-      transacoes.csv
-      transacao_produto.csv
-
-images/
-   top10.png
-   categorias.png
-   porcentagem.png
-   mes.png
-
-sql/
-   01_exploracao.sql
-   02_joins.sql
-   03_metricas.sql
-   04_base_analitica.sql
-
-notebooks/
-   analise_transacoes.ipynb
-
-README.md
+│
+├── data/
+│   └── raw/
+│       ├── clientes.csv
+│       ├── produtos.csv
+│       ├── transacoes.csv
+│       └── transacao_produto.csv
+│
+├── images/
+│   ├── top10.png
+│   ├── categorias.png
+│   ├── porcentagem.png
+│   └── mes.png
+│
+├── sql/
+│   ├── 01_exploracao.sql
+│   ├── 02_joins.sql
+│   ├── 03_metricas.sql
+│   └── 04_base_analitica.sql
+│
+├── notebooks/
+│   └── analise_transacoes.ipynb
+│
+└── README.md
 ```
 
 ---
